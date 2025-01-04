@@ -74,6 +74,10 @@ Feel free to chat in the official [Matthias discord server](https://discord.gg/6
 **Github actions**:
 - Typos: [![typos](https://github.com/marci1175/Matthias/actions/workflows/typos.yml/badge.svg)](https://github.com/marci1175/Matthias/actions/workflows/typos.yml)
 
+## Documentation
+
+The Documentation of the public API is available [here](https://matthias.gitbook.io/matthiasdocu).
+
 # Legacy
 
 - The predecessor of Matthias was [ChatApp](https://github.com/marci1175/ChatApp)
